@@ -1,3 +1,3 @@
 # owl_imp_system
 
-Insert generic 'About Me' here at some point in future. 
+This marks the beggining of a long, long journey. Bring a book.
